@@ -1,5 +1,10 @@
 # MK-Twitter-User-Info
  This program provides a simple and interactive way to retrieve and view Twitter user details in a graphical interface.
+ 
+ python_requires='>=3.8'
+ 
+### Install:
+pip install -r requirements.txt
 
 ### Key Capabilities of the Code:
 
