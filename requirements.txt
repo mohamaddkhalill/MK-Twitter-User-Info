@@ -1,0 +1,8 @@
+twikit
+httpx[socks]
+filetype
+beautifulsoup4
+pyotp
+lxml
+tk
+aiohttp
