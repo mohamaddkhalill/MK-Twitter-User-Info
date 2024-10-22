@@ -3,9 +3,9 @@
  
  python_requires='>=3.8'
 
- https://github.com/mohamaddkhalill/MK-Twitter-User-Info/blob/main/screenshot/1.png
- 
- https://github.com/mohamaddkhalill/MK-Twitter-User-Info/blob/main/screenshot/2.png
+ ![1](https://github.com/user-attachments/assets/782ebdbf-273f-4d72-be39-26b4ec0531ca)
+
+![2](https://github.com/user-attachments/assets/e89d43dd-0601-419e-8a8a-858a4a24c6bc)
  
 ### Install:
 pip install -r requirements.txt
