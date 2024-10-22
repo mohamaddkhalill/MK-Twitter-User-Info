@@ -41,3 +41,6 @@ You will not use it for harmful or malicious purposes.
 You will not violate any privacy rights or engage in unauthorized data collection.
 You are solely responsible for how you choose to use this application.
 The author is not liable for any actions or consequences resulting from improper use of the software.
+
+### Special Thanks
+This software uses the Twikit library for accessing the Twitter API Scraper. Special thanks to the Twikit developer for providing this excellent tool. You can find more about the project here: https://github.com/d60/twikit.
